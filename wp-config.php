@@ -1,3 +1,3 @@
-dbuser = ${DB_USERNAME}
-dppass = ${DB_PASSWORD}
+dbuser = $DB_USERNAME
+dppass = $DB_PASSWORD
 
