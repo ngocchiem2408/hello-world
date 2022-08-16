@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-line1
-test2
-=======
-line1 
-test1
->>>>>>> c4d3edd4530417d1d6b1c50315e18e849568be8e
-
