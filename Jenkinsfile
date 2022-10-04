@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Get source') {
             steps {
-                echo 'Get source'
+                echo 'Get source code'
             }
         }
         
